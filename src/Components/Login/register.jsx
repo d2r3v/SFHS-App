@@ -1,7 +1,7 @@
 import React from 'react';
 import loginImg from 'c://Users/herei/src/src/Components/Login/SFHS clear.png';
 
-export class register extends React.Component{
+export class Register extends React.Component{
 
     constructor(props)
     {
@@ -10,7 +10,7 @@ export class register extends React.Component{
     }
 
     render(){
-        return
+        return (
         <div className="base-Container">
             <div className="header">Register</div>
             <div className="content">
@@ -35,6 +35,6 @@ export class register extends React.Component{
                     <button type = "button" className="btn">Register</button>
                 </div>
             </div>
-        </div>
+        </div>);
     }
 }

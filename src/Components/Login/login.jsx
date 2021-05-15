@@ -1,17 +1,17 @@
 import React from 'react';
 import loginImg from 'c://Users/herei/src/src/Components/Login/SFHS clear.png';
 
-export class login extends React.Component{
+export class Login extends React.Component{
 
-    constructor(props)
+   constructor(props)
     {
         super(props);
     
     }
 
     render(){
-        return
-        <div className="base-Container">
+        return (
+            <div className="base-Container">
             <div className="header">Login</div>
             <div className="content">
                 <div className="image">
@@ -31,6 +31,6 @@ export class login extends React.Component{
                     <button type = "button" className="btn">Login</button>
                 </div>
             </div>
-        </div>
+        </div>);
     }
 }
