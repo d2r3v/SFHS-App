@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/SFHS-App/static/css/main.ec966161.chunk.css",
+    "main.js": "/SFHS-App/static/js/main.252e7023.chunk.js",
+    "main.js.map": "/SFHS-App/static/js/main.252e7023.chunk.js.map",
+    "runtime-main.js": "/SFHS-App/static/js/runtime-main.8854a509.js",
+    "runtime-main.js.map": "/SFHS-App/static/js/runtime-main.8854a509.js.map",
+    "static/js/2.45d17ecd.chunk.js": "/SFHS-App/static/js/2.45d17ecd.chunk.js",
+    "static/js/2.45d17ecd.chunk.js.map": "/SFHS-App/static/js/2.45d17ecd.chunk.js.map",
+    "static/js/3.a26bb70a.chunk.js": "/SFHS-App/static/js/3.a26bb70a.chunk.js",
+    "static/js/3.a26bb70a.chunk.js.map": "/SFHS-App/static/js/3.a26bb70a.chunk.js.map",
+    "index.html": "/SFHS-App/index.html",
+    "static/css/main.ec966161.chunk.css.map": "/SFHS-App/static/css/main.ec966161.chunk.css.map",
+    "static/js/2.45d17ecd.chunk.js.LICENSE.txt": "/SFHS-App/static/js/2.45d17ecd.chunk.js.LICENSE.txt",
+    "static/media/SFHS clear.6cf4e6e3.png": "/SFHS-App/static/media/SFHS clear.6cf4e6e3.png",
+    "static/media/logo.6ce24c58.svg": "/SFHS-App/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8854a509.js",
+    "static/js/2.45d17ecd.chunk.js",
+    "static/css/main.ec966161.chunk.css",
+    "static/js/main.252e7023.chunk.js"
+  ]
+}
