@@ -1,5 +1,5 @@
 import React from 'react';
-import loginImg from 'c://Users/herei/src/src/Components/Login/SFHS clear.png';
+/*import loginImg from 'c://Users/herei/src/src/Components/Login/SFHS clear.png';*/
 
 export class Login extends React.Component{
 
@@ -15,7 +15,7 @@ export class Login extends React.Component{
            <div className="header">Login</div>
             <div className="content">
                 <div className="image">
-                    <img src={loginImg} />
+                    <img src={"https://user-images.githubusercontent.com/50176999/118826807-6c573280-b8d9-11eb-87b0-1a74aa8c1512.png"} />
                 </div>
                 <div className="form">
                     <div className="form-group">
